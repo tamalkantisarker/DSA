@@ -49,7 +49,7 @@ class DFS {
     }
 }
 
-public class Main {
+public class DETECTCYCLEINUDC {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();

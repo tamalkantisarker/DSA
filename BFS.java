@@ -1,4 +1,4 @@
-This is the code for BFS
+// This is the code for BFS
 import java.util.*;
 class Bfs {
    void b(ArrayList<ArrayList<Integer>> list, int startNode) {

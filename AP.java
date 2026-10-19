@@ -2,7 +2,7 @@
 // Articulation point
 import java.util.*;
 
-public class Main {
+public class AP {
     static int timer = 0;
 
     public static void dfs(int node, ArrayList<ArrayList<Integer>> list, boolean[] visited, int[] in, int[] low,

@@ -1,4 +1,4 @@
-this is the code for topological sort
+// This is the code for topological sort
 import java.io.*;
 import java.util.*;
 class Graph {
